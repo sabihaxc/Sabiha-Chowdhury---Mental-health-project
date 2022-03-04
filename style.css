@@ -60,6 +60,14 @@ body {
   text-align: center;
   font-size: 25px;
   font-family: 'Playfair Display SC', serif;
+    border: 2px double;
+}
+.GFG{
+    background-color: lightblue;
+  margin: 50px 0px 0px 100px;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Playfair Display SC', serif;
 }
 
 h2{
